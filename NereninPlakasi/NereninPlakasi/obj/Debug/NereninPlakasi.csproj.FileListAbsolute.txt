@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\bin\Debug\NereninPlakasi.exe.config
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\bin\Debug\NereninPlakasi.exe
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\bin\Debug\NereninPlakasi.pdb
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\obj\Debug\NereninPlakasi.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\obj\Debug\NereninPlakasi.Form1.resources
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\obj\Debug\NereninPlakasi.Properties.Resources.resources
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\obj\Debug\NereninPlakasi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\obj\Debug\NereninPlakasi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\obj\Debug\NereninPlakasi.exe
+C:\Users\pc\Desktop\C# Projeler\NereninPlakasi\NereninPlakasi\obj\Debug\NereninPlakasi.pdb
